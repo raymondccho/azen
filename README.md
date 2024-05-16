@@ -1,8 +1,6 @@
 # azen
 AZEN ai
 
-https://2bef-1-64-199-134.ngrok-free.app
-
-raymondccho@gmail.com
+https://5e8f-1-64-199-134.ngrok-free.app
 
 raymond.ho@aisbe.ai
